@@ -18,5 +18,5 @@ function checkif_db_exists {
 	
 }
 
-checkif_db_exists Accoglienza_Misericordia 
+checkif_db_exists misericordia 
 
